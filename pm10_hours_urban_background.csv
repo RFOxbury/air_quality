@@ -1,0 +1,732 @@
+﻿"Table 1.2b: Annual hours when PM10 pollution was moderate or higher, for urban background sites, 1992 to 2018",,,,,,,,,
+,,,,,,,,,
+Year,Site,4 Moderate,5 Moderate,6 Moderate,7 High,8 High,9 High,10 Very High,Total Hours
+2000,Aberdeen,19,13,15,0,0,0,0,47
+2001,Aberdeen,25,9,0,0,0,0,0,34
+2003,Aberdeen,162,80,70,34,11,13,0,370
+2004,Aberdeen,105,68,9,12,16,0,0,210
+2005,Aberdeen,48,38,0,0,0,0,0,86
+2006,Aberdeen,92,9,7,7,18,10,0,143
+2007,Aberdeen,45,47,0,0,0,0,0,92
+2008,Aberdeen,20,0,0,0,0,0,0,20
+2009,Aberdeen,7,9,11,0,0,0,0,27
+2010,Aberdeen,12,0,0,0,0,0,0,12
+2011,Aberdeen,18,12,0,0,0,0,0,30
+2012,Aberdeen,20,8,0,0,0,0,0,28
+2013,Aberdeen,10,14,13,0,0,0,0,37
+2014,Aberdeen,0,0,0,0,0,0,0,0
+2015,Aberdeen,70,20,11,0,0,0,0,101
+2016,Aberdeen,0,0,0,0,0,0,0,0
+2017,Aberdeen,11,0,0,0,0,0,0,11
+2018,Aberdeen,13,0,0,0,0,0,0,13
+1992,All sites (mean),384,220,148,91,92,52,136,"1,123"
+1993,All sites (mean),406,307,247,122,84,66,68,"1,298"
+1994,All sites (mean),365,224,164,81,51,34,48,967
+1995,All sites (mean),342,222,164,66,43,20,26,883
+1996,All sites (mean),350,229,160,90,63,48,80,"1,020"
+1997,All sites (mean),309,150,92,53,31,19,26,679
+1998,All sites (mean),189,84,52,24,12,7,9,378
+1999,All sites (mean),125,45,19,7,3,1,3,202
+2000,All sites (mean),102,40,18,9,4,2,4,178
+2001,All sites (mean),120,54,29,13,8,5,13,244
+2002,All sites (mean),92,44,17,4,2,2,4,165
+2003,All sites (mean),227,127,70,22,6,4,5,460
+2004,All sites (mean),72,21,6,3,2,1,2,108
+2005,All sites (mean),74,27,13,6,2,2,5,130
+2006,All sites (mean),119,51,25,9,6,5,6,221
+2007,All sites (mean),100,57,39,23,11,8,10,249
+2008,All sites (mean),74,39,26,13,6,4,5,166
+2009,All sites (mean),71,40,19,7,4,2,1,144
+2010,All sites (mean),64,17,10,4,2,1,2,100
+2011,All sites (mean),115,64,38,16,8,4,5,249
+2012,All sites (mean),73,46,20,7,2,1,0,150
+2013,All sites (mean),51,27,19,3,1,0,0,102
+2014,All sites (mean),56,24,15,8,1,0,3,108
+2015,All sites (mean),54,26,7,1,0,0,0,89
+2016,All sites (mean),35,20,12,5,0,0,2,75
+2017,All sites (mean),41,16,7,1,0,1,1,67
+2018,All sites (mean),17,10,5,1,1,0,0,36
+1992,Belfast Centre,315,160,116,71,35,39,258,994
+1993,Belfast Centre,600,427,431,203,124,73,197,"2,055"
+1994,Belfast Centre,276,189,122,77,52,42,109,867
+1995,Belfast Centre,299,154,121,42,24,24,101,765
+1996,Belfast Centre,329,232,120,40,36,68,125,950
+1997,Belfast Centre,435,196,132,129,50,40,49,"1,031"
+1998,Belfast Centre,171,152,74,35,15,0,0,447
+1999,Belfast Centre,144,81,61,21,9,16,0,332
+2000,Belfast Centre,76,28,39,13,1,0,0,157
+2001,Belfast Centre,139,80,41,22,17,29,23,351
+2002,Belfast Centre,66,50,29,14,7,10,12,188
+2003,Belfast Centre,328,197,79,21,7,11,5,648
+2004,Belfast Centre,134,69,21,17,0,0,0,241
+2005,Belfast Centre,80,32,11,15,10,0,0,148
+2006,Belfast Centre,113,39,13,0,0,0,0,165
+2007,Belfast Centre,78,17,11,6,11,0,0,123
+2009,Belfast Centre,17,36,17,19,5,0,0,94
+2012,Belfast Centre,49,42,57,0,0,0,0,148
+2014,Belfast Centre,86,23,6,0,0,0,0,115
+2015,Belfast Centre,12,28,12,0,0,0,0,52
+2016,Belfast Centre,102,19,7,30,8,5,25,196
+2017,Belfast Centre,4,7,10,3,0,0,0,24
+2018,Belfast Centre,0,0,0,0,0,0,0,0
+1992,Birmingham Centre,349,253,184,84,78,62,68,"1,078"
+1993,Birmingham Centre,310,182,224,129,87,64,40,"1,036"
+1994,Birmingham Centre,351,125,160,75,41,37,24,813
+1995,Birmingham Centre,320,157,121,73,43,27,35,776
+1996,Birmingham Centre,343,216,135,114,85,63,69,"1,025"
+1997,Birmingham Centre,260,123,40,24,23,6,9,485
+1998,Birmingham Centre,155,67,63,57,34,0,0,376
+1999,Birmingham Centre,120,54,15,0,0,0,0,189
+2000,Birmingham Centre,94,49,14,9,1,0,0,167
+2001,Birmingham Centre,157,46,12,0,0,0,0,215
+2002,Birmingham Centre,98,29,23,0,0,0,0,150
+2003,Birmingham Centre,162,132,66,26,3,0,0,389
+2004,Birmingham Centre,86,0,0,0,0,0,0,86
+2005,Birmingham Centre,69,18,0,0,0,0,0,87
+2006,Birmingham Centre,216,95,23,8,8,0,0,350
+2007,Birmingham Centre,114,53,60,23,18,22,39,329
+2008,Birmingham Centre,88,31,36,17,17,25,15,229
+1994,Birmingham East,201,149,102,53,3,3,48,559
+1995,Birmingham East,246,133,100,24,33,20,62,618
+1996,Birmingham East,313,147,139,105,64,50,50,868
+1997,Birmingham East,163,109,64,48,26,18,17,445
+1998,Birmingham East,75,58,47,4,0,0,0,184
+1999,Birmingham East,81,46,3,0,0,0,0,130
+2000,Birmingham East,64,18,20,8,0,0,0,110
+2001,Birmingham East,119,42,10,8,0,0,0,179
+2002,Birmingham East,101,14,12,6,0,0,0,133
+2005,Birmingham Tyburn,65,20,12,0,0,0,0,97
+2006,Birmingham Tyburn,131,20,41,14,13,6,2,227
+2007,Birmingham Tyburn,130,128,34,42,13,12,39,398
+2008,Birmingham Tyburn,18,0,0,0,0,0,0,18
+2009,Birmingham Tyburn,50,35,37,10,15,0,0,147
+2011,Birmingham Tyburn,196,92,99,8,3,6,9,413
+2012,Birmingham Tyburn,82,57,51,11,0,0,0,201
+2013,Birmingham Tyburn,77,90,24,0,0,0,0,191
+2014,Birmingham Tyburn,49,33,32,7,2,1,22,146
+2015,Birmingham Tyburn,83,24,2,0,0,0,0,109
+2016,Birmingham Tyburn,28,21,14,0,0,0,0,63
+2001,Blackpool,124,28,9,8,4,5,0,178
+2002,Blackpool,74,39,0,0,0,0,0,113
+2003,Blackpool,222,83,33,0,0,0,0,338
+2004,Blackpool,81,0,0,0,0,0,0,81
+2006,Blackpool Marton,81,75,0,0,0,0,0,156
+2007,Blackpool Marton,95,51,40,14,0,0,0,200
+2008,Blackpool Marton,92,38,0,0,0,0,0,130
+1997,Bolton,204,84,47,44,32,1,0,412
+1998,Bolton,122,26,53,12,0,0,0,213
+1999,Bolton,39,4,0,0,0,0,0,43
+2000,Bolton,44,22,5,9,9,0,0,89
+2001,Bolton,84,25,7,12,0,0,0,128
+2002,Bolton,42,36,6,9,0,0,0,93
+2003,Bolton,268,44,23,11,0,0,0,346
+2004,Bolton,30,0,0,0,0,0,0,30
+2005,Bolton,66,14,0,0,0,0,0,80
+2006,Bolton,105,45,5,6,13,0,0,174
+2007,Bolton,32,39,34,35,12,6,2,160
+1998,Bradford Centre,395,255,100,51,19,18,33,871
+1999,Bradford Centre,196,62,39,10,19,0,0,326
+2000,Bradford Centre,65,41,6,6,0,0,0,118
+2001,Bradford Centre,182,76,40,48,12,21,0,379
+2002,Bradford Centre,177,32,3,0,0,0,0,212
+2003,Bradford Centre,292,152,121,79,28,3,0,675
+2004,Bradford Centre,172,123,48,5,20,0,0,368
+2005,Bradford Centre,363,114,148,108,26,47,93,899
+2006,Bradford Centre,319,216,207,124,76,88,125,"1,155"
+1993,Bristol Centre,376,404,296,137,82,81,25,"1,401"
+1994,Bristol Centre,432,241,162,64,51,34,21,"1,005"
+1995,Bristol Centre,388,269,191,77,13,4,17,959
+1996,Bristol Centre,418,256,199,109,26,33,61,"1,102"
+1997,Bristol Centre,365,150,91,59,79,16,0,760
+1998,Bristol Centre,254,130,125,20,8,0,0,537
+1999,Bristol Centre,199,70,19,0,0,0,0,288
+2000,Bristol Centre,162,38,41,26,6,10,10,293
+2001,Bristol Centre,159,76,91,16,6,10,3,361
+2002,Bristol Centre,121,42,34,0,0,0,0,197
+2003,Bristol Centre,468,205,119,65,5,0,0,862
+2004,Bristol Centre,166,66,28,16,0,0,0,276
+2007,Bristol St Paul's,130,76,32,17,4,10,42,311
+2008,Bristol St Paul's,127,150,89,5,13,0,0,384
+2009,Bristol St Paul's,93,21,9,18,0,0,0,141
+2010,Bristol St Paul's,101,0,1,2,1,2,18,125
+2012,Bristol St Paul's,99,40,7,4,5,10,0,165
+2013,Bristol St Paul's,72,11,0,0,0,0,0,83
+2014,Bristol St Paul's,65,13,3,16,0,0,0,97
+2015,Bristol St Paul's,28,55,0,0,0,0,0,83
+2016,Bristol St Paul's,46,20,21,14,0,0,0,101
+2017,Bristol St Paul's,28,26,2,0,0,0,0,56
+2018,Bristol St Paul's,0,0,0,0,0,0,0,0
+2001,Canterbury,100,48,23,0,0,0,0,171
+2002,Canterbury,150,40,14,0,0,0,0,204
+2003,Canterbury,251,115,54,3,0,0,0,423
+2004,Canterbury,37,12,0,0,0,0,0,49
+2005,Canterbury,114,10,0,0,0,0,0,124
+2006,Canterbury,124,52,0,0,0,0,0,176
+1994,Cardiff Centre,824,462,524,258,174,139,151,"2,532"
+1995,Cardiff Centre,427,295,166,29,17,3,18,955
+1996,Cardiff Centre,244,194,154,77,67,19,63,818
+1997,Cardiff Centre,432,155,117,75,37,8,0,824
+1998,Cardiff Centre,190,165,49,43,27,25,0,499
+1999,Cardiff Centre,183,34,31,7,2,3,41,301
+2000,Cardiff Centre,145,37,26,12,13,3,0,236
+2001,Cardiff Centre,175,83,13,3,19,0,0,293
+2002,Cardiff Centre,162,126,23,0,0,0,0,311
+2003,Cardiff Centre,510,405,199,72,8,21,49,"1,264"
+2004,Cardiff Centre,98,42,1,1,22,0,0,164
+2006,Cardiff Centre,78,29,15,5,15,1,0,143
+2007,Cardiff Centre,174,57,51,19,25,20,7,353
+2008,Cardiff Centre,104,46,54,11,3,0,0,218
+2009,Cardiff Centre,46,47,11,10,11,0,0,125
+2012,Cardiff Centre,90,28,0,0,0,0,0,118
+2013,Cardiff Centre,57,18,0,0,0,0,0,75
+2014,Cardiff Centre,51,18,3,17,0,0,0,89
+2015,Cardiff Centre,56,39,21,0,0,0,0,116
+2017,Cardiff Centre,28,0,0,0,0,0,0,28
+2018,Cardiff Centre,23,31,13,0,0,0,0,67
+2008,Chesterfield,56,15,0,0,0,0,0,71
+2009,Chesterfield,75,69,21,5,10,0,0,180
+2010,Chesterfield,95,46,50,8,0,0,0,199
+2011,Chesterfield,154,84,52,40,0,0,0,330
+2013,Chesterfield,63,43,52,9,0,0,0,167
+2015,Chesterfield Loundsley Green,45,0,0,0,0,0,0,45
+2016,Chesterfield Loundsley Green,8,12,0,0,0,0,0,20
+2017,Chesterfield Loundsley Green,31,38,0,0,0,0,0,69
+2018,Chesterfield Loundsley Green,18,17,11,6,0,0,0,52
+2001,Coventry Memorial Park,0,0,0,0,0,0,0,0
+2002,Coventry Memorial Park,106,23,0,0,0,0,0,129
+2003,Coventry Memorial Park,66,55,21,0,0,0,0,142
+2004,Coventry Memorial Park,0,0,0,0,0,0,0,0
+2005,Coventry Memorial Park,21,14,0,0,0,0,0,35
+2006,Coventry Memorial Park,54,17,7,9,7,0,0,94
+2007,Coventry Memorial Park,92,61,34,27,17,23,12,266
+2008,Coventry Memorial Park,48,35,40,10,0,0,0,133
+2002,Cwmbran,29,0,0,0,0,0,0,29
+2003,Cwmbran,76,25,0,0,0,0,0,101
+2004,Cwmbran,12,0,0,0,0,0,0,12
+2005,Cwmbran,0,0,25,4,18,0,24,71
+2006,Cwmbran,36,42,13,0,1,9,14,115
+1998,Derry,201,82,34,13,12,10,102,454
+1999,Derry,89,70,37,15,17,9,31,268
+2000,Derry,30,31,24,20,11,10,0,126
+2001,Derry,102,72,42,26,30,17,27,316
+2002,Derry,78,50,55,36,11,10,0,240
+2003,Derry,161,157,61,41,24,0,0,444
+2004,Derry,116,20,17,5,0,0,0,158
+2005,Derry,31,14,14,5,3,16,0,83
+2006,Derry,122,50,47,7,0,0,0,226
+2007,Derry,79,50,6,0,0,0,0,135
+2008,Derry,87,79,49,54,11,0,0,280
+2011,Derry,59,26,58,5,3,5,26,182
+2013,Derry,45,9,3,0,0,0,0,57
+2014,Derry,22,13,0,0,0,0,0,35
+2015,Derry,59,3,0,0,0,0,0,62
+2017,Derry Rosemount,6,14,4,0,0,0,0,24
+2018,Derry Rosemount,9,8,3,0,0,0,0,20
+2012,Eastbourne,77,118,57,20,0,0,0,272
+2014,Eastbourne,53,36,23,19,0,0,0,131
+2015,Eastbourne,10,0,0,0,0,0,0,10
+2016,Eastbourne,11,41,2,0,0,0,0,54
+1993,Edinburgh Centre,233,94,10,4,11,7,0,359
+1994,Edinburgh Centre,160,52,11,12,0,0,0,235
+1995,Edinburgh Centre,148,101,79,52,37,0,0,417
+1996,Edinburgh Centre,119,77,42,35,40,4,0,317
+1997,Edinburgh Centre,86,93,2,0,0,0,0,181
+1998,Edinburgh Centre,24,0,0,0,0,0,0,24
+1999,Edinburgh Centre,17,11,16,18,0,0,0,62
+2000,Edinburgh Centre,55,3,3,3,7,11,0,82
+2001,Edinburgh Centre,97,41,18,16,16,16,19,223
+2002,Edinburgh Centre,78,144,61,31,11,0,0,325
+2004,Edinburgh St Leonards,9,2,0,0,0,0,0,11
+2005,Edinburgh St Leonards,40,0,0,1,1,0,23,65
+2006,Edinburgh St Leonards,9,9,12,18,0,0,0,48
+2007,Edinburgh St Leonards,44,65,7,0,0,0,0,116
+2008,Edinburgh St Leonards,0,0,0,0,0,0,0,0
+2010,Edinburgh St Leonards,11,0,0,0,0,0,0,11
+2011,Edinburgh St Leonards,0,0,0,0,0,0,0,0
+2013,Edinburgh St Leonards,38,19,0,0,0,0,0,57
+2015,Edinburgh St Leonards,13,12,0,0,0,0,0,25
+2016,Edinburgh St Leonards,0,0,0,0,0,0,0,0
+2017,Edinburgh St Leonards,5,0,0,0,0,0,0,5
+2018,Edinburgh St Leonards,0,0,0,0,0,0,0,0
+1997,Glasgow Centre,169,111,61,11,18,16,18,404
+1998,Glasgow Centre,183,60,18,0,0,0,0,261
+1999,Glasgow Centre,121,23,22,14,25,0,0,205
+2000,Glasgow Centre,259,134,79,70,13,16,25,596
+2001,Glasgow Centre,135,29,36,5,13,18,38,274
+2002,Glasgow Centre,77,40,3,4,3,6,40,173
+2003,Glasgow Centre,143,137,25,0,0,0,0,305
+2005,Glasgow Centre,78,24,35,17,0,0,0,154
+2006,Glasgow Centre,36,14,34,2,0,0,0,86
+2007,Glasgow Centre,25,34,27,0,0,0,0,86
+2008,Glasgow Centre,48,47,3,0,0,0,0,98
+2009,Glasgow Centre,164,104,92,26,23,20,31,460
+2011,Glasgow Centre,14,0,2,2,2,3,16,39
+2014,Glasgow Townhead,0,0,0,0,0,0,0,0
+2015,Glasgow Townhead,0,0,0,0,0,0,0,0
+2016,Glasgow Townhead,0,0,0,0,0,0,0,0
+2017,Glasgow Townhead,29,0,0,0,0,0,0,29
+2018,Glasgow Townhead,0,0,0,0,0,0,0,0
+1994,Hull Centre,358,205,154,56,54,32,23,882
+1995,Hull Centre,367,154,144,60,33,9,12,779
+1996,Hull Centre,272,186,184,86,89,59,105,981
+1997,Hull Centre,382,165,112,42,20,24,60,805
+1998,Hull Centre,232,106,53,11,0,0,0,402
+1999,Hull Centre,202,100,58,8,12,4,0,384
+2000,Hull Centre,105,67,13,5,0,0,0,190
+2001,Hull Centre,264,142,41,0,0,0,0,447
+2003,Hull Freetown,239,120,151,50,0,0,0,560
+2004,Hull Freetown,75,0,0,0,0,0,0,75
+2005,Hull Freetown,38,9,0,0,0,0,0,47
+2006,Hull Freetown,76,45,28,9,0,0,0,158
+2007,Hull Freetown,87,28,48,52,24,8,0,247
+2008,Hull Freetown,77,31,14,0,0,0,0,122
+2009,Hull Freetown,121,75,34,11,11,13,0,265
+2010,Hull Freetown,70,24,18,28,0,0,0,140
+2011,Hull Freetown,96,69,22,18,12,0,0,217
+2012,Hull Freetown,0,0,0,0,0,0,0,0
+2013,Hull Freetown,21,30,27,0,0,0,0,78
+2014,Hull Freetown,100,19,21,0,0,0,0,140
+1997,Leamington Spa,170,104,35,0,0,0,0,309
+1998,Leamington Spa,159,65,26,36,7,0,0,293
+1999,Leamington Spa,18,9,3,0,0,0,0,30
+2000,Leamington Spa,55,14,12,5,0,0,0,86
+2001,Leamington Spa,74,4,0,0,0,0,0,78
+2002,Leamington Spa,79,14,27,3,3,1,0,127
+2003,Leamington Spa,152,55,57,20,0,37,51,372
+2004,Leamington Spa,32,0,0,0,0,0,0,32
+2006,Leamington Spa,124,42,21,31,6,17,1,242
+2007,Leamington Spa,103,33,36,7,10,0,0,189
+2009,Leamington Spa,129,71,11,0,0,0,0,211
+2010,Leamington Spa,35,0,0,0,0,0,0,35
+2012,Leamington Spa,60,37,0,0,0,0,0,97
+2013,Leamington Spa,66,80,1,0,0,0,0,147
+2014,Leamington Spa,17,27,12,0,0,0,0,56
+2015,Leamington Spa,102,13,0,0,0,0,0,115
+2016,Leamington Spa,36,10,21,0,0,0,25,92
+2017,Leamington Spa,70,0,0,0,0,0,0,70
+2018,Leamington Spa,18,9,0,0,0,0,0,27
+1993,Leeds Centre,416,298,225,132,89,55,45,"1,260"
+1994,Leeds Centre,321,278,170,115,73,31,119,"1,107"
+1995,Leeds Centre,438,268,208,45,43,49,56,"1,107"
+1996,Leeds Centre,609,333,216,111,62,122,88,"1,541"
+1997,Leeds Centre,406,271,232,137,50,48,211,"1,355"
+1998,Leeds Centre,327,98,53,50,14,4,19,565
+1999,Leeds Centre,225,83,54,43,15,0,0,420
+2000,Leeds Centre,72,31,4,9,0,0,0,116
+2001,Leeds Centre,123,45,30,22,4,7,7,238
+2002,Leeds Centre,185,109,17,8,4,3,19,345
+2003,Leeds Centre,247,228,120,48,43,13,0,699
+2004,Leeds Centre,100,18,12,6,2,0,0,138
+2005,Leeds Centre,157,107,35,11,4,2,0,316
+2006,Leeds Centre,161,80,20,0,0,0,0,261
+2007,Leeds Centre,73,56,89,46,5,1,0,270
+2008,Leeds Centre,88,39,34,42,33,16,21,273
+2009,Leeds Centre,100,62,26,2,0,0,0,190
+2010,Leeds Centre,102,7,11,8,0,0,0,128
+2011,Leeds Centre,160,114,30,14,10,14,5,347
+2012,Leeds Centre,72,27,18,19,7,12,0,155
+2014,Leeds Centre,75,49,41,16,0,0,0,181
+2015,Leeds Centre,150,64,12,0,0,0,0,226
+2016,Leeds Centre,31,32,33,0,0,0,0,96
+2017,Leeds Centre,86,69,10,0,0,0,0,165
+2018,Leeds Centre,22,11,3,7,13,0,0,56
+1994,Leicester Centre,233,152,79,30,19,14,0,527
+1995,Leicester Centre,206,127,43,14,9,6,4,409
+1996,Leicester Centre,263,139,81,48,34,45,34,644
+1997,Leicester Centre,251,82,82,36,7,0,0,458
+1998,Leicester Centre,131,60,45,32,7,10,0,285
+1999,Leicester Centre,62,2,0,0,0,0,0,64
+2000,Leicester Centre,17,0,0,0,0,0,0,17
+2001,Leicester Centre,59,41,1,0,0,0,0,101
+2002,Leicester Centre,45,31,0,0,0,0,0,76
+2003,Leicester Centre,182,125,50,1,2,0,21,381
+2004,Leicester Centre,47,0,0,0,0,0,0,47
+2005,Leicester Centre,45,39,8,0,0,0,0,92
+2006,Leicester Centre,88,44,16,9,31,5,0,193
+2008,Leicester Centre,59,36,35,22,28,0,0,180
+2009,Leicester Centre,13,14,7,13,0,0,0,47
+2010,Leicester Centre,20,2,1,3,4,14,0,44
+2011,Leicester Centre,108,50,16,0,0,0,0,174
+2012,Leicester Centre,36,39,0,0,0,0,0,75
+1994,Liverpool Centre,246,254,132,85,80,53,72,922
+1995,Liverpool Centre,489,389,330,129,75,18,8,"1,438"
+1996,Liverpool Centre,409,250,166,93,84,70,71,"1,143"
+1997,Liverpool Centre,490,178,83,23,45,20,6,845
+1998,Liverpool Centre,345,88,41,29,17,21,20,561
+1999,Liverpool Centre,168,47,1,0,0,0,0,216
+2000,Liverpool Centre,118,22,6,0,0,0,0,146
+2001,Liverpool Centre,211,61,17,23,31,6,13,362
+1992,London Bloomsbury,488,246,144,119,162,55,82,"1,296"
+1993,London Bloomsbury,501,434,293,126,110,113,100,"1,677"
+1994,London Bloomsbury,546,375,215,81,36,31,45,"1,329"
+1995,London Bloomsbury,427,346,301,127,96,38,29,"1,364"
+1996,London Bloomsbury,407,349,318,206,119,38,134,"1,571"
+1997,London Bloomsbury,412,220,160,115,48,40,27,"1,022"
+1998,London Bloomsbury,283,82,28,17,8,11,0,429
+1999,London Bloomsbury,238,114,32,11,0,0,0,395
+2000,London Bloomsbury,254,27,3,0,0,0,0,284
+2001,London Bloomsbury,260,79,41,16,28,7,0,431
+2004,London Bloomsbury,162,15,0,0,0,0,0,177
+2005,London Bloomsbury,151,31,0,0,0,0,0,182
+2006,London Bloomsbury,303,96,55,20,0,0,0,474
+2007,London Bloomsbury,132,92,61,54,14,10,0,363
+2008,London Bloomsbury,129,92,36,19,2,0,0,278
+2009,London Bloomsbury,141,44,20,0,0,0,0,205
+2010,London Bloomsbury,64,12,4,0,0,0,0,80
+2011,London Bloomsbury,154,91,73,25,32,2,0,377
+2012,London Bloomsbury,122,49,37,19,0,0,0,227
+2013,London Bloomsbury,61,44,6,0,0,0,0,111
+2014,London Bloomsbury,141,25,33,33,11,0,0,243
+2016,London Bloomsbury,114,64,39,15,0,0,0,232
+2017,London Bloomsbury,85,27,9,6,8,17,0,152
+2018,London Bloomsbury,24,18,9,0,0,0,0,51
+1997,London Brent,183,135,112,79,39,18,25,591
+1998,London Brent,109,60,30,0,0,0,0,199
+1999,London Brent,79,35,13,0,0,0,0,127
+2000,London Brent,91,29,21,7,0,0,0,148
+2001,London Brent,109,51,16,3,2,2,20,203
+2002,London Brent,159,80,2,0,0,1,24,266
+2003,London Brent,321,153,77,17,0,0,0,568
+2004,London Brent,60,39,0,0,0,0,0,99
+2005,London Brent,54,16,0,0,0,0,0,70
+2006,London Brent,108,38,10,4,3,19,0,182
+1997,London Hillingdon,493,195,147,77,53,51,51,"1,067"
+1998,London Hillingdon,154,79,73,18,11,6,0,341
+1999,London Hillingdon,189,92,35,0,0,0,0,316
+2000,London Hillingdon,227,60,19,0,0,0,0,306
+2001,London Hillingdon,139,68,37,21,3,8,9,285
+2002,London Hillingdon,91,61,0,0,0,0,0,152
+2003,London Hillingdon,355,201,181,49,0,0,0,786
+2004,London Hillingdon,188,60,21,0,0,1,23,293
+2005,London Hillingdon,180,71,18,0,0,0,0,269
+2006,London Hillingdon,275,124,2,1,1,0,25,428
+1997,London N. Kensington,285,138,121,140,38,53,70,845
+1998,London N. Kensington,182,134,42,15,0,0,0,373
+1999,London N. Kensington,185,120,56,16,0,0,0,377
+2000,London N. Kensington,213,34,29,6,0,0,0,282
+2001,London N. Kensington,189,76,59,14,4,3,21,366
+2002,London N. Kensington,129,74,7,0,0,0,0,210
+2003,London N. Kensington,256,208,190,27,0,0,0,681
+2004,London N. Kensington,117,37,4,0,0,0,0,158
+2005,London N. Kensington,110,41,16,0,0,0,0,167
+2006,London N. Kensington,184,117,23,13,2,7,17,363
+2007,London N. Kensington,112,83,62,41,16,6,0,320
+2008,London N. Kensington,128,36,21,9,5,0,0,199
+2009,London N. Kensington,75,14,9,0,0,0,0,98
+2011,London N. Kensington,172,105,42,34,13,0,0,366
+2012,London N. Kensington,97,75,58,32,7,0,0,269
+2015,London N. Kensington,97,46,42,4,0,0,0,189
+2016,London N. Kensington,77,66,62,27,0,0,0,232
+2017,London N. Kensington,52,12,0,0,0,0,0,64
+2018,London N. Kensington,12,14,5,0,0,0,0,31
+1996,Manchester Piccadilly,341,283,180,107,89,39,83,"1,122"
+1997,Manchester Piccadilly,382,191,73,51,41,14,0,752
+1998,Manchester Piccadilly,222,94,86,45,30,3,12,492
+1999,Manchester Piccadilly,183,53,24,0,0,0,0,260
+2000,Manchester Piccadilly,316,160,32,25,15,0,0,548
+2001,Manchester Piccadilly,441,411,257,175,110,54,243,"1,691"
+2002,Manchester Piccadilly,180,66,54,20,19,5,0,344
+2003,Manchester Piccadilly,371,250,129,32,6,0,0,788
+2004,Manchester Piccadilly,102,31,11,14,0,0,0,158
+2005,Manchester Piccadilly,136,50,23,0,0,0,0,209
+2006,Manchester Piccadilly,207,96,62,0,0,0,0,365
+2007,Manchester Piccadilly,144,86,56,42,21,13,77,439
+2008,Manchester Piccadilly,59,35,58,45,24,10,0,231
+1994,Newcastle Centre,414,296,220,122,60,22,14,"1,148"
+1995,Newcastle Centre,236,165,87,60,35,47,2,632
+1996,Newcastle Centre,397,204,122,88,64,39,104,"1,018"
+1997,Newcastle Centre,280,88,54,7,4,0,0,433
+1998,Newcastle Centre,97,24,5,0,0,0,0,126
+1999,Newcastle Centre,69,18,18,26,0,0,0,131
+2000,Newcastle Centre,0,0,0,0,0,0,0,0
+2001,Newcastle Centre,14,0,0,0,0,0,0,14
+2002,Newcastle Centre,4,0,0,0,0,0,0,4
+2003,Newcastle Centre,160,23,23,0,0,0,0,206
+2004,Newcastle Centre,31,0,0,0,0,0,0,31
+2005,Newcastle Centre,37,12,7,0,0,0,0,56
+2006,Newcastle Centre,21,9,14,12,0,0,0,56
+2007,Newcastle Centre,36,22,58,31,2,0,0,149
+2008,Newcastle Centre,43,20,11,17,2,0,0,93
+2009,Newcastle Centre,71,6,0,0,0,0,0,77
+2010,Newcastle Centre,0,0,0,0,0,0,0,0
+2011,Newcastle Centre,126,27,0,0,0,0,0,153
+2012,Newcastle Centre,31,7,12,9,12,0,0,71
+2013,Newcastle Centre,38,0,0,0,0,0,0,38
+2014,Newcastle Centre,42,0,0,0,0,0,0,42
+2015,Newcastle Centre,74,15,0,0,0,0,0,89
+2016,Newcastle Centre,25,0,0,0,0,0,0,25
+2017,Newcastle Centre,41,9,0,0,0,0,0,50
+2018,Newcastle Centre,42,13,11,2,0,0,0,68
+2009,Newport,39,73,9,9,11,0,0,141
+2011,Newport,55,83,20,0,0,0,0,158
+2012,Newport,43,0,0,0,0,0,0,43
+2014,Newport,30,23,6,9,0,0,0,68
+2016,Newport,18,8,0,0,0,0,0,26
+2001,Northampton,16,0,0,0,0,0,0,16
+2002,Northampton,81,0,0,0,0,0,0,81
+2003,Northampton,84,62,27,18,0,0,0,191
+2004,Northampton,27,0,0,0,0,0,0,27
+2005,Northampton,0,0,0,0,0,0,0,0
+2006,Northampton,80,14,0,0,0,0,0,94
+2007,Northampton,58,8,12,0,0,0,0,78
+1998,Norwich Centre,140,17,0,0,0,0,0,157
+1999,Norwich Centre,95,25,0,0,0,0,0,120
+2000,Norwich Centre,53,14,0,0,0,0,0,67
+2001,Norwich Centre,12,9,0,0,0,0,0,21
+2002,Norwich Centre,28,0,0,0,0,0,0,28
+2003,Norwich Centre,162,62,14,0,0,0,0,238
+2004,Norwich Centre,32,5,0,0,0,0,0,37
+2005,Norwich Centre,0,0,0,0,0,0,0,0
+2007,Norwich Centre,150,100,16,9,0,0,0,275
+2010,Norwich Lakenfields,63,34,0,0,0,0,0,97
+2011,Norwich Lakenfields,116,94,47,32,1,0,0,290
+2012,Norwich Lakenfields,35,0,0,0,0,0,0,35
+2013,Norwich Lakenfields,39,10,14,3,0,0,0,66
+2014,Norwich Lakenfields,0,0,0,0,0,0,0,0
+2015,Norwich Lakenfields,49,58,5,0,0,0,0,112
+2016,Norwich Lakenfields,21,0,0,0,0,0,0,21
+2017,Norwich Lakenfields,36,30,53,0,0,0,0,119
+2018,Norwich Lakenfields,13,12,11,5,0,0,0,41
+1997,Nottingham Centre,376,158,72,37,48,17,21,729
+1998,Nottingham Centre,253,73,62,22,19,25,32,486
+1999,Nottingham Centre,118,46,7,0,0,0,0,171
+2000,Nottingham Centre,93,42,12,10,5,2,20,184
+2001,Nottingham Centre,151,106,24,5,6,6,21,319
+2002,Nottingham Centre,56,20,13,0,0,0,0,89
+2003,Nottingham Centre,304,146,34,18,0,0,0,502
+2004,Nottingham Centre,74,20,0,0,0,0,0,94
+2005,Nottingham Centre,43,46,13,8,12,7,0,129
+2006,Nottingham Centre,133,22,17,0,0,0,0,172
+2007,Nottingham Centre,117,70,59,16,18,31,38,349
+2008,Nottingham Centre,43,54,30,24,17,35,4,207
+2010,Nottingham Centre,133,67,31,15,22,0,0,268
+2011,Nottingham Centre,245,134,47,18,17,0,0,461
+2013,Nottingham Centre,34,34,110,28,12,0,0,218
+2014,Nottingham Centre,44,55,66,31,3,2,16,217
+2015,Nottingham Centre,46,55,12,7,0,0,0,120
+2016,Nottingham Centre,35,30,19,0,0,0,0,84
+2017,Nottingham Centre,86,56,0,0,0,0,0,142
+2018,Nottingham Centre,26,6,10,0,0,0,0,42
+2008,Oxford St Ebbes,17,10,11,0,0,0,0,38
+2009,Oxford St Ebbes,65,52,5,0,0,0,0,122
+2010,Oxford St Ebbes,23,0,0,0,0,0,0,23
+2011,Oxford St Ebbes,85,20,0,0,0,0,0,105
+2012,Oxford St Ebbes,74,21,6,0,0,0,0,101
+2015,Oxford St Ebbes,30,4,0,0,0,0,0,34
+2017,Oxford St Ebbes,26,20,7,0,0,0,0,53
+2018,Oxford St Ebbes,22,0,0,0,0,0,0,22
+1998,Plymouth Centre,77,52,27,20,0,0,0,176
+1999,Plymouth Centre,42,3,0,0,0,0,0,45
+2000,Plymouth Centre,20,2,1,2,1,2,21,49
+2001,Plymouth Centre,62,14,3,0,0,0,0,79
+2002,Plymouth Centre,22,11,10,0,0,0,0,43
+2003,Plymouth Centre,73,31,24,7,0,0,0,135
+2004,Plymouth Centre,139,75,31,8,12,2,0,267
+2005,Plymouth Centre,0,0,0,0,0,0,0,0
+2007,Plymouth Centre,124,36,35,20,19,17,0,251
+2011,Plymouth Centre,56,22,22,22,36,15,0,173
+2012,Plymouth Centre,83,60,32,16,0,0,0,191
+2013,Plymouth Centre,27,6,0,0,0,0,0,33
+2014,Plymouth Centre,6,9,35,4,0,0,0,54
+2015,Plymouth Centre,36,32,14,8,9,0,0,99
+2016,Plymouth Centre,29,27,0,0,0,0,0,56
+2017,Plymouth Centre,0,0,0,0,0,0,0,0
+2018,Plymouth Centre,0,0,0,0,0,0,0,0
+2001,Portsmouth,121,21,2,20,0,0,0,164
+2002,Portsmouth,40,23,0,0,0,0,0,63
+2003,Portsmouth,125,88,25,0,0,0,0,238
+2004,Portsmouth,11,9,0,0,0,0,0,20
+2005,Portsmouth,17,0,0,0,0,0,0,17
+2006,Portsmouth,66,36,15,20,5,0,0,142
+2007,Portsmouth,88,14,18,3,4,6,11,144
+2012,Portsmouth,86,83,39,0,0,0,0,208
+2017,Portsmouth,0,0,0,0,0,0,0,0
+2001,Preston,44,11,9,0,0,0,0,64
+2002,Preston,43,5,14,0,1,10,11,84
+2003,Preston,130,101,22,9,7,2,0,271
+2004,Preston,27,3,7,17,3,5,65,127
+2005,Preston,0,0,0,0,0,0,0,0
+2006,Preston,69,30,0,0,0,0,0,99
+2007,Preston,62,30,57,2,0,0,0,151
+2008,Preston,72,32,25,22,0,0,0,151
+1998,Reading,150,63,18,0,0,0,0,231
+1999,Reading,9,0,0,0,0,0,0,9
+2000,Reading,59,50,11,12,21,23,34,210
+2001,Reading,102,50,16,1,11,8,0,188
+2002,Reading,43,18,0,0,0,0,0,61
+2004,Reading New Town,4,0,0,0,0,0,0,4
+2005,Reading New Town,36,0,0,0,0,0,0,36
+2006,Reading New Town,73,17,0,0,0,0,0,90
+2007,Reading New Town,161,128,73,69,37,30,4,502
+2009,Reading New Town,44,14,4,0,0,0,0,62
+2011,Reading New Town,98,43,16,5,0,0,0,162
+2012,Reading New Town,75,77,16,0,0,0,0,168
+2013,Reading New Town,67,0,0,0,0,0,0,67
+2014,Reading New Town,55,14,8,3,0,0,0,80
+2015,Reading New Town,30,23,0,0,0,0,0,53
+2016,Reading New Town,43,31,1,0,0,0,0,75
+2017,Reading New Town,35,7,15,9,0,0,0,66
+2018,Reading New Town,17,8,0,0,0,0,0,25
+1998,Salford Eccles,161,66,51,18,16,17,30,359
+1999,Salford Eccles,146,22,12,0,0,0,0,180
+2000,Salford Eccles,55,49,29,0,0,0,0,133
+2001,Salford Eccles,140,47,54,22,10,3,0,276
+2002,Salford Eccles,83,51,10,0,0,0,0,144
+2003,Salford Eccles,257,81,56,4,0,0,0,398
+2004,Salford Eccles,57,13,15,0,0,0,0,85
+2005,Salford Eccles,54,88,15,0,0,0,0,157
+2006,Salford Eccles,137,93,41,0,0,0,0,271
+2007,Salford Eccles,55,47,40,22,2,2,25,193
+2008,Salford Eccles,25,9,16,4,8,0,0,62
+2009,Salford Eccles,69,43,19,10,4,0,0,145
+2010,Salford Eccles,62,17,24,9,0,0,0,112
+2011,Salford Eccles,110,48,57,12,2,3,20,252
+2012,Salford Eccles,99,65,23,0,0,0,0,187
+2013,Salford Eccles,45,39,63,21,7,0,0,175
+2014,Salford Eccles,32,54,16,0,2,0,22,126
+2015,Salford Eccles,82,38,11,0,0,0,0,131
+2016,Salford Eccles,51,19,0,0,0,0,0,70
+2017,Salford Eccles,65,1,1,1,1,1,22,92
+2018,Salford Eccles,15,5,18,0,0,0,0,38
+1996,Sheffield Centre,421,354,280,137,84,78,204,"1,558"
+1997,Sheffield Centre,375,253,180,24,22,20,34,908
+1998,Sheffield Centre,277,236,142,76,2,1,18,752
+1999,Sheffield Centre,151,45,7,13,6,0,0,222
+2000,Sheffield Centre,53,19,11,10,11,2,0,106
+2001,Sheffield Centre,140,48,48,9,0,0,0,245
+2002,Sheffield Centre,106,144,67,0,0,0,0,317
+2003,Sheffield Centre,347,173,164,67,29,17,21,818
+2004,Sheffield Centre,86,20,0,0,0,0,0,106
+2005,Sheffield Centre,102,7,8,14,0,0,0,131
+2006,Sheffield Centre,245,84,48,0,0,0,0,377
+2007,Sheffield Centre,153,89,29,29,53,18,0,371
+2008,Sheffield Centre,181,72,53,25,13,22,71,437
+2010,Sheffield Centre,172,59,10,0,0,0,0,241
+2011,Sheffield Centre,204,95,48,32,38,30,0,447
+2012,Sheffield Centre,140,99,16,8,28,14,0,305
+2016,Sheffield Devonshire Green,44,8,19,0,0,0,0,71
+2017,Sheffield Devonshire Green,46,12,33,0,0,0,0,91
+2018,Sheffield Devonshire Green,22,24,10,4,11,5,0,76
+1994,Southampton Centre,384,137,83,21,23,0,0,648
+1996,Southampton Centre,365,215,111,47,39,22,46,845
+1997,Southampton Centre,289,150,94,80,36,22,12,683
+1998,Southampton Centre,228,54,66,23,0,0,0,371
+1999,Southampton Centre,197,18,0,0,0,0,0,215
+2000,Southampton Centre,50,89,16,0,0,0,0,155
+2001,Southampton Centre,159,74,44,1,1,1,22,302
+2002,Southampton Centre,109,18,44,3,0,0,0,174
+2003,Southampton Centre,246,74,49,2,0,0,0,371
+2004,Southampton Centre,97,24,0,0,0,0,0,121
+2005,Southampton Centre,96,31,0,0,0,0,0,127
+2006,Southampton Centre,89,27,16,9,9,4,20,174
+2007,Southampton Centre,149,97,50,12,6,7,6,327
+2008,Southampton Centre,91,59,56,18,6,0,0,230
+2009,Southampton Centre,61,19,0,0,0,0,0,80
+2010,Southampton Centre,14,7,0,0,0,0,0,21
+2011,Southampton Centre,73,86,19,16,9,0,0,203
+2012,Southampton Centre,116,79,50,0,0,0,0,245
+2013,Southampton Centre,68,16,0,0,0,0,0,84
+2014,Southampton Centre,102,37,6,10,7,0,0,162
+2015,Southampton Centre,44,34,9,4,0,0,0,91
+2017,Southampton Centre,65,0,0,0,0,0,0,65
+2001,Southend-on-Sea,75,8,2,1,2,3,22,113
+2002,Southend-on-Sea,62,1,1,1,2,1,19,87
+2003,Southend-on-Sea,210,63,29,0,0,0,0,302
+2004,Southend-on-Sea,17,0,0,0,0,0,0,17
+2005,Southend-on-Sea,80,5,0,0,0,0,0,85
+2006,Southend-on-Sea,72,55,18,2,2,3,19,171
+2007,Southend-on-Sea,160,57,75,21,9,0,0,322
+2008,Southend-on-Sea,153,51,12,0,0,0,0,216
+1997,Stockport,231,112,77,9,5,5,10,449
+1998,Stockport,217,42,37,32,34,28,17,407
+1999,Stockport,169,25,17,0,0,0,0,211
+2000,Stockport,63,21,11,0,0,0,0,95
+2001,Stockport,56,25,39,15,7,5,17,164
+2003,Stockport Shaw Heath,106,19,9,0,0,0,0,134
+2004,Stockport Shaw Heath,68,21,1,0,0,0,0,90
+2006,Stockport Shaw Heath,26,25,49,1,0,0,0,101
+1998,Stoke-on-Trent Centre,185,106,70,27,15,16,18,437
+1999,Stoke-on-Trent Centre,115,57,19,4,0,0,0,195
+2000,Stoke-on-Trent Centre,53,61,17,0,0,0,0,131
+2001,Stoke-on-Trent Centre,104,39,21,16,15,0,0,195
+2002,Stoke-on-Trent Centre,85,44,6,2,2,11,7,157
+2004,Stoke-on-Trent Centre,47,7,17,0,0,0,0,71
+2005,Stoke-on-Trent Centre,50,47,21,0,0,0,0,118
+2006,Stoke-on-Trent Centre,200,52,41,13,12,0,0,318
+2007,Stoke-on-Trent Centre,126,60,16,26,18,27,24,297
+2008,Stoke-on-Trent Centre,125,44,57,23,0,0,0,249
+2009,Stoke-on-Trent Centre,74,56,33,10,0,0,0,173
+2010,Stoke-on-Trent Centre,89,25,13,6,0,0,0,133
+2011,Stoke-on-Trent Centre,135,54,40,38,2,2,22,293
+2012,Stoke-on-Trent Centre,98,54,21,27,0,0,0,200
+2013,Stoke-on-Trent Centre,67,43,34,8,0,0,0,152
+2014,Stoke-on-Trent Centre,105,49,1,1,2,4,16,178
+1995,Swansea,460,326,241,126,96,16,0,"1,265"
+1996,Swansea,347,225,110,40,32,25,36,815
+1997,Swansea,331,129,69,18,0,0,0,547
+1998,Swansea,223,34,57,52,30,8,8,412
+1999,Swansea,34,0,0,0,0,0,0,34
+2000,Swansea,168,53,24,26,8,0,0,279
+2001,Swansea,107,63,22,1,0,0,0,193
+2002,Swansea,79,30,12,15,0,0,0,136
+2003,Swansea,162,96,8,0,0,0,0,266
+2005,Swansea,42,0,0,0,0,0,0,42
+1997,Thurrock,235,171,57,43,62,38,37,643
+1998,Thurrock,183,91,63,8,0,0,0,345
+1999,Thurrock,127,74,24,10,2,2,16,255
+2000,Thurrock,185,54,12,0,0,0,0,251
+2001,Thurrock,101,65,38,4,4,4,40,256
+2002,Thurrock,208,115,41,16,14,14,18,426
+2003,Thurrock,235,292,197,65,49,21,31,890
+2004,Thurrock,117,33,5,5,6,15,0,181
+2005,Thurrock,154,18,17,0,0,0,0,189
+2006,Thurrock,89,49,3,2,10,13,0,166
+2007,Thurrock,116,43,47,51,5,0,0,262
+2008,Thurrock,52,16,16,0,0,0,0,84
+2009,Thurrock,70,22,38,10,2,0,0,142
+2010,Thurrock,115,10,10,2,2,1,18,158
+2011,Thurrock,202,125,144,68,12,11,26,588
+2012,Thurrock,108,68,11,0,0,0,0,187
+2013,Thurrock,99,19,5,0,0,0,0,123
+2014,Thurrock,145,53,24,10,6,0,0,238
+2015,Thurrock,35,18,9,0,0,0,0,62
+2016,Thurrock,43,31,13,0,0,0,0,87
+2017,Thurrock,57,34,22,0,0,0,0,113
+2018,Thurrock,71,15,11,2,0,0,0,99
+2005,Wigan Centre,99,36,20,0,2,4,18,179
+2006,Wigan Centre,154,77,38,1,0,0,0,270
+2001,Wigan Leigh,115,46,35,11,0,0,0,207
+2002,Wigan Leigh,95,51,20,1,0,0,0,167
+2003,Wigan Leigh,341,187,58,18,0,0,0,604
+2001,Wirral Tranmere,28,28,26,14,0,0,0,96
+2002,Wirral Tranmere,54,25,12,0,0,0,0,91
+2003,Wirral Tranmere,179,53,18,5,0,0,0,255
+2004,Wirral Tranmere,5,0,0,0,0,0,0,5
+2006,Wirral Tranmere,47,2,0,0,0,0,0,49
+2007,Wirral Tranmere,67,27,27,8,10,1,0,140
+2008,Wirral Tranmere,47,15,3,0,1,1,23,90
+1997,Wolverhampton Centre,342,135,66,67,22,23,21,676
+1998,Wolverhampton Centre,143,64,92,17,58,29,0,403
+1999,Wolverhampton Centre,106,43,8,4,0,0,0,161
+2000,Wolverhampton Centre,119,58,42,9,2,5,16,251
+2001,Wolverhampton Centre,154,48,31,13,9,1,0,256
+2002,Wolverhampton Centre,150,73,28,0,0,0,0,251
+2003,Wolverhampton Centre,261,154,77,22,0,0,0,514
+2004,Wolverhampton Centre,57,0,0,0,0,0,0,57
+2005,Wolverhampton Centre,86,57,45,34,8,1,22,253
+2006,Wolverhampton Centre,91,20,20,18,7,0,0,156
+2008,York Bootham,56,27,0,0,0,0,0,83
+2009,York Bootham,44,0,0,0,0,0,0,44
+2010,York Bootham,44,22,13,0,0,0,0,79
+2011,York Bootham,119,53,47,0,0,0,0,219
+2012,York Bootham,43,10,0,0,0,0,0,53
+2013,York Bootham,33,16,22,0,0,0,0,71
+2014,York Bootham,63,5,5,11,0,0,0,84
+2015,York Bootham,87,24,11,0,0,0,0,122
+2016,York Bootham,10,11,14,13,0,0,0,48
+2017,York Bootham,99,29,0,0,0,0,0,128
+2018,York Bootham,17,32,5,0,0,0,0,54
+,,,,,,,,,
+1. Annual hours from individual monitoring sites are included if at least 75% data capture is achieved for the year concerned.,,,,,,,,,
+2. The annual mean for 'All Sites' in a given year is the mean hours of all sites included in the table for that year.,,,,,,,,,
+3. The categories relate to those defined by the Daily Air Quality Index.,,,,,,,,,
